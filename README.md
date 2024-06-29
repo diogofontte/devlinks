@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online, estilo link in bio.
 
-- [Ver projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Ver projeto finalizado, online](https://diogofontte.github.io/devlinks)
 
 ---
 
